@@ -1,4 +1,7 @@
 # EdaNewIssues
+
+**This Phase 1 Repo is deprecated**
+
 A skeletal repo that contains new EDA issues that are not yet initially reviewed by the dev team and an SOP to triage/distribute them
 
 [EDA Project Kanban Board](https://github.com/orgs/VEuPathDB/projects/2) - Manage the lifecycle of an issue
